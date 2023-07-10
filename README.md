@@ -1,2 +1,2 @@
 # practice_repo
-Repository for learning git and github.
+Repository for learning git and github. 
